@@ -42,15 +42,7 @@ The analysis focuses on three key stakeholder questions:
 
 ## 📷 Dashboard Preview
 
-> **Dashboard Screenshot**
 
-<img width="1155" height="720" alt="image" src="https://github.com/user-attachments/assets/eee8b47b-5d36-4619-a7ab-39da8df8401f" />
-<img width="1158" height="688" alt="Screenshot 2026-09-04 200708" src="https://github.com/user-attachments/assets/0798c1ad-01da-4822-9ba7-bad3cafc3b80" />
-<img width="1157" height="682" alt="image" src="https://github.com/user-attachments/assets/65ca26e8-1936-4a16-b749-17cc25639379" />
-<img width="1161" height="671" alt="image" src="https://github.com/user-attachments/assets/bd15a909-041b-4bd3-8e7d-e182786083fb" />
-
-
----
 # 📊 Dashboard
 
 The Power BI dashboard provides an interactive view of:
@@ -99,11 +91,20 @@ Based on the cleaned dataset:
 - **Oncology** had the highest average Length of Stay at approximately **8.20 days**.
 - The monthly variation in patient volume suggests potential opportunities to review **staffing, bed capacity and resource allocation**.
 
+**Dashboard Screenshot**
+
+<img width="1155" height="720" alt="image" src="https://github.com/user-attachments/assets/eee8b47b-5d36-4619-a7ab-39da8df8401f" />
+
+---
+
 ### Demographics
 
 - **Adults** were the largest age group with **4,641 patients (46.41%)**.
 - Geographic analysis identified **Jaipur** as the city with the highest patient volume at **992 patients**.
 
+**Dashboard Screenshot**
+<img width="1158" height="688" alt="Screenshot 2026-09-04 200708" src="https://github.com/user-attachments/assets/0798c1ad-01da-4822-9ba7-bad3cafc3b80" />
+--
 ---
 
 # 🏥 Hospital Operations Analysis
@@ -117,6 +118,7 @@ Department-level analysis identifies which departments are handling the greatest
 > Dermatology has the highest patient volume with 1,318 patients.
 
 This can help hospital management understand where demand is concentrated.
+
 
 ---
 
@@ -164,6 +166,11 @@ This may warrant investigation into:
 
 However, the dataset alone does not establish the cause of the variation.
 
+> **Dashboard Screenshot**
+<img width="1157" height="682" alt="image" src="https://github.com/user-attachments/assets/65ca26e8-1936-4a16-b749-17cc25639379" />
+
+
+---
 ---
 
 # 💰 Financial / Cost Analysis
@@ -200,6 +207,9 @@ The dataset does not contain a dedicated:
 Therefore, this project does **not** claim to calculate hospital revenue or profit.
 
 Instead, the financial analysis focuses on **treatment costs and payment status**.
+
+> **Dashboard Screenshot**
+<img width="1161" height="671" alt="Screenshot 2026-09-04 201157" src="https://github.com/user-attachments/assets/db385a63-4191-49bd-8887-ad6317ad0ffb" />
 
 ---
 
